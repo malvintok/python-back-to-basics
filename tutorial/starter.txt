@@ -1,0 +1,18 @@
+Foundation of Computational Thinking
+1. Decomposition - Break problem into smaller parts
+2. Pattern Recognition - Observe patterns
+3. Algorithms - Steps to solve problem
+4. Abstraction - Focus on important things before the details
+
+Problem Solving 101 (Calculator)
+Input
+Processing
+Output
+
+Object Oriented Programming
+1. Object (Bank)
+2. Class (Bank)
+3. Inheritance (People in School Concept / Self Learn)
+4. Polymorphism (Self Learn)
+5. Abstraction (Self Learn)
+6. Encapsulation (Self Learn)

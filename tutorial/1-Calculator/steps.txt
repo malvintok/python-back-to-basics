@@ -1,0 +1,9 @@
+Create a calculator on the CLI
+
+1. Create calculator.py
+2. Identify inputs and desired outputs
+3. What are the processes needed? Are we able to create functions for them?
+4. Create the functions
+5. Ask for input
+6. Process input and call functions
+7. Display output

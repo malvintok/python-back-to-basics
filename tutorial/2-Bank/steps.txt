@@ -1,0 +1,24 @@
+Create a bank that holds BankAccounts for user to do banking transactions
+
+Part A - Bank Account
+1. Create main.py Bank.py and BankAccount.py
+2. Inside BankAccount.py, fufill these fields and methods
+    - BankAccount has name and balance
+    - User able to deposit, withdraw and check balance
+3. Make BankAccount an import in Bank.py
+
+Part B - Bank
+1. The bank holds an array of BankAccounts
+2. User can create a new bank account at the bank. Create a method for this.
+3. User can also login with account number (index of array). Link to 4.
+4. Once login, they will be able to perform deposit, withdraw and check balance on their bank account.
+    - Create the logic to process user choices.
+    - Link the choices to methods in 5.
+5. Create withdraw, deposit and check balance methods
+    - Call the bank account methods using the account object that user logged in with
+    - Ideally, CLI should show what's going on. Success, account balance after transaction etc.
+
+Tips: 
+  - Run the program frequently to find errors early
+  - Functions should do only one thing
+  - Make functions short and sweet
